@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #0b0b0b;
+  --color-ink-soft: #141414;
+  --color-ink-card: #1a1a1a;
+  --color-gold: #c9a24b;
+  --color-gold-light: #e3c77a;
+  --color-gold-dark: #9a7a2e;
+  --color-bone: #f4efe6;
+
+  --font-display: "Playfair Display", serif;
+  --font-sans: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+
+  --shadow-gold: 0 10px 30px -10px rgba(201, 162, 75, 0.45);
+}
